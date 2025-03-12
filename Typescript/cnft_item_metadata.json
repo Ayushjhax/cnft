@@ -1,0 +1,48 @@
+{
+	"name"                   : "100xDevs NFT",
+	"symbol"                 : "100xDevs",
+	"description"            : "100xDevs Bounty Attempt by Ayush",
+	"seller_fee_basis_points": 0,
+	"image"                  : "https://res.cloudinary.com/djohjwkn6/image/upload/v1741644237/100xDevs_tv6ozv.jpg",
+	"external_url"           : "https://github.com/Ayushjhax",
+	"attributes"             : [
+		{
+			"trait_type": "Bounty",
+			"value"     : "Superteam"
+		},
+		{
+			"trait_type": "Sponsored By",
+			"value"     : "100xDevs"
+		},
+		{
+			"trait_type": "Attempted by",
+			"value"     : "Ayush Kumar Jha"
+		},
+		{
+			"trait_type": "Status",
+			"value"     : "Yeah!"
+		},
+		{
+			"trait_type": "Mint date",
+			"value"     : "2025-03-12"
+		}
+	],
+	"collection": {
+		"name"  : "Ayush cNFT Collection",
+		"family": "Ayush cNFTs"
+	},
+	"properties": {
+	  "files": [
+		{
+			"uri" : "https://res.cloudinary.com/djohjwkn6/image/upload/v1741644237/100xDevs_tv6ozv.jpg",
+			"type": "image/png"
+		}
+	  ],
+	  "category": "image"
+	},
+	"creators": {
+		"address" : "ayEwtx4SbkdoyF7i7rA3Ygq7qkVsaJTr3JhQocdibn7",
+		"verified": false,
+		"share"   : 100
+	}
+  }

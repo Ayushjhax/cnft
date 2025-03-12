@@ -1,0 +1,22 @@
+{
+	"name"                   : "100xDevs NFT",
+	"symbol"                 : "100xDevs",
+	"description"            : "100xDevs Bounty Attempt by Ayush",
+	"seller_fee_basis_points": 0,
+	"image"                  : "https://pbs.twimg.com/profile_images/1877817218244775936/zYaaUHgY_400x400.jpg",
+	"external_url"           : "https://github.com/Ayushjhax",
+	"attributes"             : [],
+	"collection"             : {
+		"name"  : "Ayush cNFT Collection",
+		"family": "Ayush cNFTs"
+	},
+	"properties": {
+		"files": [
+			{
+				"uri" : "https://pbs.twimg.com/profile_images/1877817218244775936/zYaaUHgY_400x400.jpg",
+				"type": "image/png"
+			}
+		],
+		"category": "image"
+	}
+}

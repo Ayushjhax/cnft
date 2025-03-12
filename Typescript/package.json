@@ -1,0 +1,21 @@
+{
+  "name": "cnft",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@metaplex-foundation/mpl-bubblegum": "^1.0.1",
+    "@metaplex-foundation/mpl-token-metadata": "^3.0.0",
+    "@metaplex-foundation/umi-bundle-defaults": "^0.8.9",
+    "@metaplex-foundation/umi-uploader-nft-storage": "^0.8.9",
+    "bs58": "^5.0.0",
+    "csv-parse": "^5.5.6",
+    "date-fns": "^2.30.0",
+    "dotenv": "^16.4.5"
+  }
+}
