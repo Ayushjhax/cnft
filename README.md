@@ -74,8 +74,6 @@ mix run -e "Cnft.create_merkle_tree()"
 mix run -e "Cnft.mint_cnft()"
 ```
 
-Initially i created these in the Typescript and with elixir i am still having some problem(Still in Progress) commands to run that are below:
-
 ## Installation
 
 **Clone the repo:**
