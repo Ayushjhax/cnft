@@ -87,6 +87,11 @@ Install **bun** if needed
 
 `bun --help`
 
+**Path**
+```bash
+cd Typescript
+```
+
 **To install dependencies:**
 
 ```bash
