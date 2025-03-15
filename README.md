@@ -1,7 +1,7 @@
 # Compressed NFTs
 
 
-Topics in this exercise:
+Topics:
 - Elixir cnft
 - TypeScript
 - Merkle Tree
